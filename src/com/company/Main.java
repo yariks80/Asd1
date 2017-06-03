@@ -7,8 +7,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-	// write your code here
-        System.out.println();
         Scanner scanner = new Scanner(System.in);
         String [] s = scanner.nextLine().split("\\s");
         System.out.println(Arrays.toString(s));
