@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
         String [] s = scanner.nextLine().split("\\s");
-        System.out.println(Arrays.toString(s));
+        Sysvvvvvvvvvvvvvvtem.out.println(Arrays.toString(s));
+        
     }
 }
