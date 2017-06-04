@@ -7,9 +7,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        Scanner scanner = new Scanner(System.in);
-        String [] s = scanner.nextLine().split("\\s");
-        Sysvvvvvvvvvvvvvvtem.out.println(Arrays.toString(s));
+       
         
     }
 }
